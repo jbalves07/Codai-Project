@@ -1,4 +1,4 @@
-# Codai-Project
+# Codai-Project 👨🏼‍💻
 
 Este é o projeto final que criamos no Projeto [Codaí](https://codai.growdev.com.br/) realizado pela [Growdev](https://www.growdev.com.br/)!
 
