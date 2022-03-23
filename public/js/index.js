@@ -15,13 +15,13 @@ document.getElementById("login-form").addEventListener("submit", function (e) {
     const account = getAccount(email);
 
     if (!account) {
-        alert("Opps! Verifique o usuário ou a senha.");
+        alert("Ops! Verifique o usuário ou a senha.");
         return;
     }
 
     if (account) {
         if (account.password !== password) {
-            alert("Ops! Verifique o usuário ou a senha!");
+            alert("Ops! Verifique o usuário ou a senha.");
             return;
         }
 
